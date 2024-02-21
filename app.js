@@ -66,8 +66,3 @@ start();
 
 
 
-// {
-//     "name": "Amruta Task",
-//     "completed": false
-//   }
-// This is the raw body to be posted
