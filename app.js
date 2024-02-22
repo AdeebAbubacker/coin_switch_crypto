@@ -8,6 +8,7 @@ import cryptoModel from './models/cryptoModel.js';
 
 app.use(express.json());
 
+//current endpoint = http://localhost:3000/api/v1/crypto
 app.get('/api/v1/crypto', async (req, res) => {
     try {
      
